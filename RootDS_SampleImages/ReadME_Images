@@ -2,5 +2,5 @@ This folder contains all images used in the following publicaton:
 
 Pierz, L. D., D. R. Heslinga, C. R. Buell, and M. J. Haus (2023). An image-based technique for automated root disease severity assessment using PlantCV Applications in Plant Sciences 11(1):e11507.
 
-
+There are two subfolders which each contain the entire data set for one experimental run (replicate). Each genotype was repeated 5 times for a mock and fungal treatment in this experiment. 
 
